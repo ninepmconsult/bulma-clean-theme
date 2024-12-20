@@ -1,6 +1,6 @@
 ---
 title: Ingenieurbüro Hoppert
-subtitle: This is the demo site for Bulma Clean Theme
+subtitle: Uanabhängiger Sachverstand
 layout: page
 callouts: home_callouts
 show_sidebar: true
