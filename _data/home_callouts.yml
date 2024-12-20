@@ -13,7 +13,7 @@ items:
   - title: Wärmepumpendoktor
     subtitle: Probleme? Zu hohe Verbrauchskosten/Takte?
     icon: fa-mail-bulk
-    call_to_action_name: Betandsaufnahme
+    call_to_action_name: Bestandsaufnahme
     call_to_action_link: /page-1/
   - title: Blog
     subtitle: Aus der Praxis
