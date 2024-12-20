@@ -1,5 +1,11 @@
-- name: Docsssss
-  link: /docs/
+- name: Über
+  link: /ueber/
+- name: Energieberatung
+  link: /eba/
+- name: Wärmepumpen
+  link: /wp/
+- name: Wärmepumpendoc
+  link: /wpdoc/
 - name: Example Pages
   link: /#
   dropdown:
@@ -19,3 +25,5 @@
       link: /showcase/
 - name: Blog
   link: /blog/
+- name: Kontakt
+  link: /kontakt/
