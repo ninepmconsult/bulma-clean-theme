@@ -1,12 +1,23 @@
 style: is-light
 items:
-  - title: Multiple page layouts
+  - title: Energieberatung
     subtitle: Including sidebar, menubar, tabs and callouts
     icon: fa-copy
-  - title: Blog included
-    subtitle: Layouts for blog and post pages included
+    call_to_action_name: Informationen zur Energieberatung
+    call_to_action_link: /page-1/
+  - title: Wärmepumpenberatung
+    subtitle: Machbarkeit klären? Heizkörper? in Kombination mit PV-Anlage?
     icon: fa-mail-bulk
-  - title: Works with GitHub Pages
-    subtitle: Quick and easy to get started
-    icon: fa-github
+    call_to_action_name: Wärmepumpenberatung
+    call_to_action_link: /page-1/
+  - title: Wärmepumpendoktor
+    subtitle: Probleme? Zu hohe Verbrauchskosten/Takte?
+    icon: fa-mail-bulk
+    call_to_action_name: Betandsaufnahme
+    call_to_action_link: /page-1/
+  - title: Blog
+    subtitle: Aus der Praxis
+    icon: fa-mail-bulk
     icon_brand: true
+    call_to_action_name: Blog
+    call_to_action_link: /page-1/
