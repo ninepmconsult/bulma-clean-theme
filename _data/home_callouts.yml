@@ -21,4 +21,4 @@ items:
     icon: fa-house
     icon_brand: true
     call_to_action_name: Blog
-    call_to_action_link: /page-1/
+    call_to_action_link: /blog/
