@@ -6,7 +6,7 @@ callouts: home_callouts
 show_sidebar: true
 hero_height: is-medium
 hero_link: /page-1/
-hero_link_text: Kontakt
+hero_link_text: Jetzt kontaktieren
 ---
 
 # Bulma Clean Theme demo website
