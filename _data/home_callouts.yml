@@ -2,7 +2,7 @@ style: is-light
 items:
   - title: Energieberatung
     subtitle: ISFP | freie Beratung
-    icon: fa-copy
+    icon: fa-house-laptop
     call_to_action_name: Informationen zur Energieberatung
     call_to_action_link: /page-1/
   - title: Wärmepumpenberatung
@@ -20,9 +20,14 @@ items:
     icon: fa-wrench
     call_to_action_name: Bestandsaufnahme
     call_to_action_link: /page-1/
+  - title: Coding
+    subtitle: Berere
+    icon: fa-laptop-file
+    icon_brand: true
+    call_to_action_name: Blog
+    call_to_action_link: /blog/
   - title: Blog
     subtitle: Aus der Praxis
-    #icon: fa-mail-bulk
     icon: fa-clipboard
     icon_brand: true
     call_to_action_name: Blog
