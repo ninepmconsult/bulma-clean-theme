@@ -1,9 +1,12 @@
 ---
+layout: page
 title: Ingenieurbüro Hoppert
 subtitle: Sachverstand. Lösungsorientiert. Unabhängig.
-layout: page
 callouts: home_callouts
 show_sidebar: true
+hero_height: is-medium
+hero_link: /page-1/
+hero_link_text: Kontakt
 ---
 
 # Bulma Clean Theme demo website
