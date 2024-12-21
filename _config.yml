@@ -1,10 +1,10 @@
 # Site Settings
-lang: en
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
-email: your-email@domain.com
+lang: de
+title: Ingenieurbüro Hoppert
+tagline: Ingenieurbüro Hoppert
+email: maikhoppert@gmail.com
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
+  IB Hoppert- Sachverstand. Lösungsorientiert. Unabhängig.
 baseurl: "/bulma-clean-theme"
 url: "https://www.csrhymes.com"
 permalink: pretty
