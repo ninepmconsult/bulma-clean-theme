@@ -1,7 +1,6 @@
 ---
 title: Ingenieurbüro Hoppert
 subtitle: Sachverstand. Lösungsorientiert. Unabhängig.
-#subtitle: Unabhängiger Sachverstand
 layout: page
 callouts: home_callouts
 show_sidebar: true
