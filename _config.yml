@@ -8,8 +8,8 @@ description: >
 baseurl: "/bulma-clean-theme"
 url: "https://www.csrhymes.com"
 permalink: pretty
-#favicon: /path/to/favicon.png
-gh_sponsor: chrisrhymes
+favicon: /path/to/favicon.png
+#gh_sponsor: chrisrhymes
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
 #fixed_navbar: top
@@ -80,16 +80,16 @@ footer_menu: example_footer_menu
 
 collections:
   products: 
-    output: true
+    output: false
     layout: product
     image: https://via.placeholder.com/800x600
     show_sidebar: false
 
-social:
-  facebook: https://www.facebook.com/
-  instagram: https://www.instagram.com/
-  threads: https://www.threads.net/
-  tiktok: https://www.tiktok.com/
-  x: https://www.x.com/
-  youtube: https://www.youtube.com/
+#social:
+#  facebook: https://www.facebook.com/
+#  instagram: https://www.instagram.com/
+#  threads: https://www.threads.net/
+#  tiktok: https://www.tiktok.com/
+#  x: https://www.x.com/
+#  youtube: https://www.youtube.com/
   
