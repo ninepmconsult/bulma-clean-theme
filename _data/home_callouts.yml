@@ -7,7 +7,7 @@ items:
     call_to_action_link: /page-1/
   - title: Wärmepumpenberatung
     subtitle: Machbarkeit klären? Heizkörper? in Kombination mit PV-Anlage?
-    icon: fa-house
+    icon: fa-hard-drive
     call_to_action_name: Wärmepumpenberatung
     call_to_action_link: /page-1/
   - title: Baubegleitung
@@ -23,7 +23,7 @@ items:
   - title: Blog
     subtitle: Aus der Praxis
     #icon: fa-mail-bulk
-    icon: fa-house
+    icon: fa-clipboard
     icon_brand: true
     call_to_action_name: Blog
     call_to_action_link: /blog/
