@@ -17,7 +17,7 @@ items:
     call_to_action_link: /page-1/
   - title: Blog
     subtitle: Aus der Praxis
-    icon: fa-mail-bulk
+    #icon: fa-mail-bulk
     icon: fa-house
     icon_brand: true
     call_to_action_name: Blog
