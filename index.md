@@ -3,7 +3,7 @@ layout: page
 title: Ingenieurbüro Hoppert
 subtitle: Sachverstand. Lösungsorientiert. Unabhängig.
 callouts: home_callouts
-show_sidebar: true
+show_sidebar: false
 hero_height: is-medium
 hero_link: /page-1/
 hero_link_text: Jetzt kontaktieren
