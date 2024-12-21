@@ -7,8 +7,13 @@ items:
     call_to_action_link: /page-1/
   - title: Wärmepumpenberatung
     subtitle: Machbarkeit klären? Heizkörper? in Kombination mit PV-Anlage?
-    icon: fa-house-day
+    icon: fa-house
     call_to_action_name: Wärmepumpenberatung
+    call_to_action_link: /page-1/
+  - title: Baubegleitung
+    subtitle: Einzelmaßnahmen|Effizienzhaussanierung
+    icon: fa-gear
+    call_to_action_name: Informationen zur Energieberatung
     call_to_action_link: /page-1/
   - title: Wärmepumpendoktor
     subtitle: Probleme? Zu hohe Verbrauchskosten/Takte?
