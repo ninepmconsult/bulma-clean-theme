@@ -1,7 +1,7 @@
 style: is-light
 items:
   - title: Energieberatung
-    subtitle: ISFP|freie Beratung|Einzelmaßnahmen|Effizienzhaussanierung
+    subtitle: ISFP | freie Beratung
     icon: fa-copy
     call_to_action_name: Informationen zur Energieberatung
     call_to_action_link: /page-1/
@@ -13,7 +13,7 @@ items:
   - title: Baubegleitung
     subtitle: Einzelmaßnahmen|Effizienzhaussanierung
     icon: fa-gear
-    call_to_action_name: Informationen zur Energieberatung
+    call_to_action_name: Informationen zur Baubegleitung
     call_to_action_link: /page-1/
   - title: Wärmepumpendoktor
     subtitle: Probleme? Zu hohe Verbrauchskosten/Takte?
